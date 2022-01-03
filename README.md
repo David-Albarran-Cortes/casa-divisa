@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+
+
+
+
+![FireShot Capture 017 - Laravel - casadivisa test](https://user-images.githubusercontent.com/86747930/147990410-d9c6cd06-61ba-42d5-b8fc-ef5502101b08.png)
+
 ## Casa divisa ya no se encuentra en desarrollo activo 
 
 Tenga en cuenta que la aplicacion ya no se encuentra en desarrollo activo. Esto se debe a otros proyectos que estoy realizando. 
